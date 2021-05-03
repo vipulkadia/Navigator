@@ -1,0 +1,13 @@
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.csprojAssemblyReference.cache
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.frmNavigator.resources
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.Properties.Resources.resources
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.csproj.GenerateResource.cache
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.csproj.CoreCompileInputs.cache
+D:\Vipul\Navigator\Navigator\NavigatorApplication\bin\Debug\NavigatorApplication.exe.config
+D:\Vipul\Navigator\Navigator\NavigatorApplication\bin\Debug\NavigatorApplication.exe
+D:\Vipul\Navigator\Navigator\NavigatorApplication\bin\Debug\NavigatorApplication.pdb
+D:\Vipul\Navigator\Navigator\NavigatorApplication\bin\Debug\Navigator.dll
+D:\Vipul\Navigator\Navigator\NavigatorApplication\bin\Debug\Navigator.pdb
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.csproj.CopyComplete
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.exe
+D:\Vipul\Navigator\Navigator\NavigatorApplication\obj\Debug\NavigatorApplication.pdb

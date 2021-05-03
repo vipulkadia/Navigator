@@ -1,0 +1,6 @@
+D:\Vipul\Navigator\Navigator\Navigator\bin\Debug\Navigator.dll
+D:\Vipul\Navigator\Navigator\Navigator\bin\Debug\Navigator.pdb
+D:\Vipul\Navigator\Navigator\Navigator\obj\Debug\Navigator.csprojAssemblyReference.cache
+D:\Vipul\Navigator\Navigator\Navigator\obj\Debug\Navigator.csproj.CoreCompileInputs.cache
+D:\Vipul\Navigator\Navigator\Navigator\obj\Debug\Navigator.dll
+D:\Vipul\Navigator\Navigator\Navigator\obj\Debug\Navigator.pdb
